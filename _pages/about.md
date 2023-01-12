@@ -8,11 +8,14 @@ title: "About Rebecca Hedges"
 
 Rebecca prides himself on her diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
-* Vanderbilt University
-  * PhD Biomedical Engineering
+* Vanderbilt University | Nashville, TN
+  * BE Chemical and Biomolecular Engineering - May 2024
+  * Minor in Engineering Managment
+  * GPA: 3.843 - Dean's List
+* Relevant Coursework
+  * Biomolecular Engineering and Design                  Chemical Reactor Engineering
+  * Mass Transfer and Stage Based Separations            Fluid Mechanics
+  * Quantitative Methods                                 Thermodynamics
 
 ## Technical Skills
 
