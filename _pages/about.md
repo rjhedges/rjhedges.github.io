@@ -13,9 +13,9 @@ Rebecca prides himself on her diverse skill set. His most prominent fields of ex
   * Minor in Engineering Managment
   * GPA: 3.843 - Dean's List
 * Relevant Coursework
-  * Biomolecular Engineering and Design                   Chemical Reactor Engineering
-  * Mass Transfer and Stage Based Separations            Fluid Mechanics
-  * Quantitative Methods                                 Thermodynamics
+  * Biomolecular Engineering and Design * Chemical Reactor Engineering
+  * Mass Transfer and Stage Based Separations * Fluid Mechanics
+  * Quantitative Methods * Thermodynamics
 
 ## Technical Skills
 
