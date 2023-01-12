@@ -6,7 +6,7 @@ title: "About Rebecca Hedges"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Rebecca prides himself on her diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
 
 * University of Virginia
   * BS Mathematics
