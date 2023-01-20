@@ -43,6 +43,6 @@ Rebecca is proficent in a number of  can operate a number of different computer 
 
 ## About Rebecca Hedges 
 
-When she has time, Rebecca enjoys spending time outdoors by running, hiking, and rock climbing. She also has a passion for reading,crocheting, and spending time with family.
+When she has time, Rebecca enjoys spending time outdoors by running, hiking, and rock climbing. She also has a passion for reading, crocheting, and spending time with family.
 
 ![Rebecca Hedges](/assets/Hedges_Headshot.jpg)
