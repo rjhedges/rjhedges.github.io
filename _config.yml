@@ -101,12 +101,9 @@ author:
   bio              : "An aspiring engineer with a passion for creating innovative soltuions "
   location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rjhedges"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/rebecca-hedges-7a2423223"
 
 
 # Site Footer
