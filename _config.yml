@@ -112,12 +112,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DrD-Flo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/rebecca-hedges-7a2423223"
+
 
 
 # Reading Files
