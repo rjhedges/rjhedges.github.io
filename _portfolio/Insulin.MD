@@ -5,8 +5,8 @@ gallery:
   - url: /assets/img/Hedges_Quant.png
     image_path: /assets/img/Hedges_Quant.png
     alt: "Linear models for variable of interest"
-  - url: /assets/img/Hedges_Quant.png
-    image_path: /assets/img/Hedges_Quant.png
+  - url: /assets/img/Hedges_Quant2.png
+    image_path: /assets/img/Hedges_Quant2.png
     alt: "ROC Curve used to evaluate the model"
 ---
 
