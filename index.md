@@ -10,5 +10,4 @@ header:
       url: "/portfolio/"
 excerpt: "Rebecca Hedges is an aspiring Chemical Engineer looking to gain a deeper understanding of the process control industry through a summer internship. Her strengths include experience with separation process design and optimization, proficiency in MATLAB, and enthusiasm to learn more about the industry."
 
-{% include feature_row %}
-
+---
