@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Rebecca Hedges"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,20 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
-feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
----
+excerpt: "Rebecca Hedges is an aspiring Chemical Engineer looking to gain a deeper understanding of the process control industry through a summer internship. Her strengths include experience with separation process design and optimization, proficiency in MATLAB, and enthusiasm to learn more about the industry."
 
 {% include feature_row %}
 
