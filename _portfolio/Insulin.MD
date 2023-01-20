@@ -8,8 +8,8 @@ gallery:
   - url: /assets/img/Hedges_Quant.png
     image_path: /assets/img/Hedges_Quant.png
     alt: "Linear models for variable of interest"
-  - url: /assets/img/Hedges_Q.png
-    image_path: assets/img/Cyber-Scooter-2.jpg
+  - url: /assets/img/Hedges_Quant.png
+    image_path: /assets/img/Hedges_Quant.png
     alt: "ROC Curve used to evaluate the model"
 ---
 
