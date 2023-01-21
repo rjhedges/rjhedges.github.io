@@ -1,7 +1,8 @@
 ---
 title: "Process Optimization with ASPEN"
 excerpt: "Preliminary Design to meet process optimization"
-teaser: /assets/img/Hedges_ASPEN.png
+header:
+  teaser: /assets/img/Hedges_ASPEN.png
 
 gallery:
   - url: /assets/img/Aspen.jpg
