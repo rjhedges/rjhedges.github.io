@@ -1,6 +1,10 @@
 ---
 title: "Quantitative Methods"
 excerpt: "A multi-predictor model to predict hyperinsulenima in patients"
+
+header:
+  teaser: /assets/img/Hedges_Quant.png
+  
 gallery:
   - url: /assets/img/Hedges_Quant.png
     image_path: /assets/img/Hedges_Quant.png
